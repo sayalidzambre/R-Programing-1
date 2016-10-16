@@ -1,0 +1,1 @@
+dat2=scan(file="C:\\Users\\OWNER\\Desktop\\BDAP\\hills.txt")
